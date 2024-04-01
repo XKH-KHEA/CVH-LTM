@@ -1,0 +1,32 @@
+{
+  "id": "9a2dbae6-82e8-47f1-a241-d935ca48f9fa",
+  "name": "CVH-LTM Perpetual Enhancement Pack",
+  "publisher": "Xtricate (Cambodia) Co., Ltd",
+  "version": "20.0.0.0",
+  "brief": "",
+  "description": "20240401",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
